@@ -290,7 +290,7 @@ public class Siakad {
     {
         if(jumlahData == 0)
         {
-            System.out.println("Data kosong");
+            System.out.println("Tidak Ada Data");
         }else
 
         {
@@ -316,7 +316,7 @@ public class Siakad {
                     }
                 }
             }
-            System.out.println("Data menjadi terurut, Anda dapat melihat dengan menuju menu 2");
+            System.out.println("Data telah diurutkan. Silahkan tampilkan data");
         }
     }
 
